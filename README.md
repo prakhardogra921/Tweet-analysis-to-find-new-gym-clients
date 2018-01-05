@@ -2,16 +2,9 @@ Python version: 2.7
 IDE: Pycharm
 
 External Libraries involved:
-tweepy
-nltk
-stop_words
-sklearn
-pickle
-numpy
-
-Rest are probably inbuilt:
-json
-csv
-time
-os
-math
+1. tweepy
+2. nltk
+3. stop_words
+4. sklearn
+5. pickle
+6. numpy
